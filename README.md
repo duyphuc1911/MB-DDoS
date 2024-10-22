@@ -1,6 +1,4 @@
-#coding n fix
-use python3 in order to run tool
-git clone https://github.com/duyphuc1911
-cd MB-DDOS
-pip install -r requirements.txt
-join my server discord https://discord.gg/MhgshXWzXE
+CLone and install 
+'git clone https://github.com/duyphuc1911/MB-DDoS.git
+cd MB-ddos-main/MB-ddos-main
+pip install -r requirements.txt'
