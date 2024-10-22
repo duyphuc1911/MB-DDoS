@@ -6,6 +6,7 @@ cd MB-ddos-main/MB-ddos-main
 pip install -r requirements.txt
 ```
 
+**Run Code**
 ```run script
 python MB-ddos.py
 The example was given when I coded
