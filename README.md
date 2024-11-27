@@ -23,8 +23,10 @@ git clone https://github.com/duyphuc1911/MB-DDoS.git
 cd MB-ddos-main/MB-ddos-main
 pip install -r requirements.txt
 
+````bash
 python MB-ddos.py
 
+```
 Enter the target URL: http://example.com
 Enter the number of threads to use: 100
 Attacking http://example.com with 100 threads...
