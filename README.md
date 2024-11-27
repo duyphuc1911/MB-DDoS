@@ -18,14 +18,20 @@ MB-DDoS is a Distributed Denial of Service (DDoS) attack tool designed to test s
 #### **Step 1:** Clone the repository
 Download the source code from the GitHub repository:
 
-```bash
+```
 git clone https://github.com/duyphuc1911/MB-DDoS.git
 cd MB-ddos-main/MB-ddos-main
 pip install -r requirements.txt
 
-````bash
+```
+
+#### **Step 2:** Run code
+```
 python MB-ddos.py
 
+```
+
+#### Example Usage
 ```
 Enter the target URL: http://example.com
 Enter the number of threads to use: 100
